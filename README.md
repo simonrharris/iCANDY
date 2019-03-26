@@ -1,2 +1,2 @@
 # iCANDY
-iCANDY for reviewers only
+iCANDY code for reviewers only
